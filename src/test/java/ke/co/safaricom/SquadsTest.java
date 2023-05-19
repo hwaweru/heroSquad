@@ -1,4 +1,4 @@
-package models;
+package ke.co.safaricom;
 
 import org.junit.After;
 import org.junit.Before;

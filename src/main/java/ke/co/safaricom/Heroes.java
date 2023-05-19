@@ -1,4 +1,4 @@
-package models;
+package ke.co.safaricom;
 
 import java.util.ArrayList;
 
