@@ -1,9 +1,12 @@
 plugins {
     id 'java'
+    id 'application'
 }
-
+apply plugin:'maven'
 group = 'ke.co.safaricom'
 version = '1.0-SNAPSHOT'
+
+mainClassName = 'App'
 
 repositories {
     mavenCentral()
