@@ -2,7 +2,7 @@
 
 Heroes-Squad
 
-## This project is a Heroes-Squad App, Version Date: 3rd May 2023
+## This project is a Heroes-Squad App, Version Date: 29th May 2023
 
 ## By **Hellen Waweru**
 
@@ -15,19 +15,9 @@ Heroes-Squad
 
 ## Setup/Installation Requirements
 
-- Clone the repository by executing the following command in your terminal in the directory of your choice -
+- Clone the repository-https://github.com/hwaweru/heroSquad.git
 - Navigate into the heroSquad directory 
 - Build project
-
-
-## BDD
-1. Run the file on Terminal
-2. Enter text to be encrypted as per your need
-3. Enter the encryption key
-4. Encrypted and Decrypted data displayed
-5. Request closes
-6. Run file on Terminal again to initiate
-
 
 ## Known Bugs
 
@@ -35,9 +25,12 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-1. JAVA
-2. IntelliJ IDEA
-3. Gradle
+* Java.
+* Spark. 
+* Gradle.
+* Maven.
+* Bootstrap.
+* JUnit.
 
 ## Support and contact details
 
@@ -45,7 +38,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## GITHUB URL Link
 
-To view project click :  https://github.com/hwaweru/caeserCipher.git
+To view project click :  https://github.com/hwaweru/heroSquad.git
 
 ### License
 
