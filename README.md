@@ -28,7 +28,6 @@ There are no known bugs on this project.
 * Java.
 * Spark. 
 * Gradle.
-* Maven.
 * Bootstrap.
 * JUnit.
 
